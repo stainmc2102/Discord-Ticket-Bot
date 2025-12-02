@@ -46,7 +46,7 @@ Bot Discord hỗ trợ quản lý hệ thống ticket cho server . Bot sử dụ
 
 ```bash
 git clone https://github.com/stainmc2102/Discord-Ticket-Bot
-cd vietrealm-ticket-bot
+cd Discord-Ticket-Bot-main
 ```
 
 ### Bước 2: Cài Đặt Dependencies
